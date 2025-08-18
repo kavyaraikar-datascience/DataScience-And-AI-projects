@@ -27,8 +27,6 @@ BCA with CGPA 8.95 – KLS Gogte College, Belagavi (2022-25)
 Served as Event Head during EVOGEN(national level Intercollegiate Technical organised by GCC)
 
 📫 Contact
-Email: kavyaraikarv@gmail.com
-
-[LinkedIn:](www.linkedin.com/in/kavyaraikar)
-
-[GitHub:](github.com/kavyaraikarv)
+[Email](kavyaraikarv@gmail.com)
+[LinkedIn](www.linkedin.com/in/kavyaraikar)
+[GitHub](github.com/kavyaraikarv)
