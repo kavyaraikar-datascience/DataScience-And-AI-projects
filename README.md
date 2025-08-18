@@ -28,5 +28,7 @@ Served as Event Head during EVOGEN(national level Intercollegiate Technical orga
 
 📫 Contact
 [Email](kavyaraikarv@gmail.com)
+
 [LinkedIn](www.linkedin.com/in/kavyaraikar)
+
 [GitHub](github.com/kavyaraikarv)
