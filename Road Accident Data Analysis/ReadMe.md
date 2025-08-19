@@ -4,7 +4,7 @@
 ## Introduction
 
 Road accidents are a significant concern globally, resulting in major human and economic losses. Understanding the patterns and causes behind these accidents is critical for creating effective prevention strategies. This project presents an interactive dashboard built in Microsoft Excel that analyzes road accident data from 2021 and 2022.
-
+![Dashboard Overview](images/image.png)
 ## Project Overview
 
 This portfolio project uses Excel exclusively for all analysis and visualization. The dashboard provides insights into accident casualties, accident severity, vehicle type involvement, monthly trends, and the influence of environmental conditions such as daylight and darkness.
