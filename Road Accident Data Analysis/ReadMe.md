@@ -19,7 +19,7 @@ This portfolio project uses Excel exclusively for all analysis and visualization
 - Suggest evidence-driven **interventions** to reduce casualties.
 
 ## Data Analysis Sheat
-![Datasheat Overview](images/image.png)
+![Datasheat Overview](images/image1.png)
 
 ## Data Source
 
