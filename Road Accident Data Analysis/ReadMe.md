@@ -18,6 +18,9 @@ This portfolio project uses Excel exclusively for all analysis and visualization
 - Investigate the impact of **daylight vs. dark conditions** on accidents.
 - Suggest evidence-driven **interventions** to reduce casualties.
 
+## Data Analysis Sheat
+![Datasheat Overview](images/image.png)
+
 ## Data Source
 
 - Year: 2021 and 2022.
@@ -52,14 +55,6 @@ This portfolio project uses Excel exclusively for all analysis and visualization
 2. Open the file in Microsoft Excel (2016 or newer recommended).
 3. Use the provided slicers/filters to view trends by year, severity, vehicle, and lighting.
 4. Review each chart/KPI to gain actionable insights.
-
-## Results Screenshots
-
-_Replace the image file names below with actual screenshots once uploaded to GitHub's `/images` folder:_
-
-![Dashboard Overview](images/dashboard-overview.png)
-![Monthly Comparison](images/month-comparison.png)
-![Severity Breakdown](images/severity-breakdown.png)
 
 ## Future Work
 
