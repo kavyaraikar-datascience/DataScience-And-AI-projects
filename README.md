@@ -1,15 +1,15 @@
 <h3>Welcome! This repository features my key data science projects, highlighting my skills in Python, machine learning, automation, and business analytics. Each project demonstrates my dedication to solving real-world problems using technology and data.</h3>
 
 <h2><b> +🚀 Featured Projects</b></h2>
-1. Adventure Works Report<br> [Link](https://github.com/kavyaraikar-datascience/DataScience-And-AI-projects/tree/main/Adventure%20Works%20Report)
-2. SENTIMART: Sentiment Analysis System [Link]()<br>
-3. Clustering Mobile App Users Based on Activity [Link]()<br>
-4. Road accident Data Analysis [Link]()<br>
-5. Superstore Sales Analysis DashBoard [Link]()<br>
-6. Pizza Sales Analysis using SQL [Link]()<br>
-7. Netflix Exploratory data analysis [Link]()<br>
-8. Career Aspirations of GenZ (survey analysis) [Link]()<br>
-9. Amazon Sales Insights with Power BI [Link]()<br>
+1. Adventure Works Report<br>
+2. SENTIMART: Sentiment Analysis System<br>
+3. Clustering Mobile App Users Based on Activity<br>
+4. Road accident Data Analysis <br>
+5. Superstore Sales Analysis DashBoard <br>
+6. Pizza Sales Analysis using SQL <br>
+7. Netflix Exploratory data analysis<br>
+8. Career Aspirations of GenZ (survey analysis) <br>
+9. Amazon Sales Insights with Power BI <br>
     
 <h2><b>🛠️ Skills & Tools</b></h2>
 
