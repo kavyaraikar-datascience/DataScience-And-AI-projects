@@ -1,7 +1,7 @@
 <h3>Welcome! This repository features my key data science projects, highlighting my skills in Python, machine learning, automation, and business analytics. Each project demonstrates my dedication to solving real-world problems using technology and data.</h3>
 
 <h2><b> +🚀 Featured Projects</b></h2>
-1. Adventure Works Report [Link]()<br>
+1. Adventure Works Report [Link](https://github.com/kavyaraikar-datascience/DataScience-And-AI-projects/tree/main/Adventure%20Works%20Report)<br>
 2. SENTIMART: Sentiment Analysis System [Link]()<br>
 3. Clustering Mobile App Users Based on Activity [Link]()<br>
 4. Road accident Data Analysis [Link]()<br>
