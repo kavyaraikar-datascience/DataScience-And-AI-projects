@@ -1,18 +1,20 @@
-# Mobile App Users Clustering
+<h1 style="color:blue;">Mobile App Users Clustering Based on Activity Data</h1>
 
-This project applies machine learning techniques to analyze and segment mobile app users based on their activity data. By leveraging K-means clustering and real-time visualizations, the system uncovers user behavior patterns and supports engagement strategies.
+This project uses machine learning to cluster mobile app users based on their activity data, helping identify different user behavior patterns. The final model is deployed as an interactive app using Streamlit.
 
-## Features
+**Features**
 
-- Clusters mobile app users using K-means algorithm, based on activity and usage metrics.
-- Provides an interactive web interface built with Streamlit for real-time cluster prediction and user data input.
-- Visualizes user segments and activity patterns with clear, actionable charts.
-- Helps product managers and analysts identify key user groups and enhance engagement strategies.
+**Clustering Analysis:** Group mobile app users based on activity features like app usage time, screen-on time, battery drain, etc.
 
-## Technologies Used
+**Interactive Prediction:** Users can input activity data and predict their cluster using the app.
 
-- Python
-- Streamlit
-- Scikit-learn (K-means clustering)
-- Pandas, NumPy (data processing)
-- Matplotlib, Seaborn, Plotly (visualizations)
+**Visualizations:** Display key feature distributions and insights from the clustering process.
+
+
+![App Screenshot(1)](https://github.com/user-attachments/assets/d55ae8b0-3af7-4a89-9d18-f839aefd82ef)
+
+
+![App Screenshot(2)](https://github.com/user-attachments/assets/10b8adb5-65d8-47b0-ac77-3440264e89e1)
+
+
+![App Screenshot(3)](https://github.com/user-attachments/assets/54f47c7e-5325-4c42-87a3-f15958aea43f)
