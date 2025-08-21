@@ -23,4 +23,4 @@ SENTIMART is a web-based sentiment analysis application that automates the extra
 ![image1](images/Sentimart2.png)
 ![image1](images/Sentimart3.png)
 ![image1](images/Sentimart4.png)
-![image1](images/Sentimart5.png)
+![image1](images/Senitmart5.png)
