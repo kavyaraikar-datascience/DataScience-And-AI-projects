@@ -29,7 +29,7 @@ This repository contains the Power BI project developed for Adventure Works, a f
 ## Dashboard Screenshots
 ![image1](images/Exec_dashboard.png)
 ![image1](images/ExecDashboard.png)
-![image1](images/map.png)
+![image1](images/Map.png)
 ![image1](images/Product_performance.png)
 ![image1](images/Customer_performance.png)
 
