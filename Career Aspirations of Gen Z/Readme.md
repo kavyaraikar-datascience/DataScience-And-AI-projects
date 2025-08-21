@@ -1,1 +1,1 @@
-![image](image/Career_aspirations.png)
+![image](image/carreer_aspirations.png)
