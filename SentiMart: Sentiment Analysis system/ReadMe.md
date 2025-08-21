@@ -18,5 +18,5 @@ SENTIMART is a web-based sentiment analysis application that automates the extra
 - Web Scraping libraries (e.g., BeautifulSoup, requests)
 - Visualization libraries (Matplotlib, Seaborn, WordCloud, Plotly)
 
-#screenshots
+## screenshots
 ![image1](images/Sentimart1)
