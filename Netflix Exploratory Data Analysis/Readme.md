@@ -32,6 +32,11 @@ The dataset contains information about titles on Netflix. Here are the columns a
 
 ---
 ![image1](images/python_analysis.jpeg)
+![image2](images/python_analysis1.jpeg)
+![image3](images/python_analysis2.jpeg)
+![image4](images/python_analysis3.jpeg)
+![image5](images/python_analysis4.jpeg)
+
 ## Instructions
 
 ### 1. Import Libraries
