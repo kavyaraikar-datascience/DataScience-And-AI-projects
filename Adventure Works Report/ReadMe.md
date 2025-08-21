@@ -26,6 +26,9 @@ This repository contains the Power BI project developed for Adventure Works, a f
 - Mastery of advanced Power BI features including drill-through, DAX calculations, and row-level security.  
 - Ability to deliver actionable business insights through compelling and interactive reports.
 
+## Dashboard Screenshots
+![image1](images/Exec_dashboard.png)
+
 ## Credits  
 This project was completed as part of the Microsoft Power BI Desktop course by Maven Analytics.  
 Special thanks to instructors Chris Dutton and Aaron Parry for their guidance.
