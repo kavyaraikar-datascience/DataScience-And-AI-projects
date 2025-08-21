@@ -17,3 +17,6 @@ SENTIMART is a web-based sentiment analysis application that automates the extra
 - VADER Sentiment Analyzer (NLP)
 - Web Scraping libraries (e.g., BeautifulSoup, requests)
 - Visualization libraries (Matplotlib, Seaborn, WordCloud, Plotly)
+
+#screenshots
+![image1](images/sentimart1)
