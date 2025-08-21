@@ -1,1 +1,1 @@
-![SuperStore](Superstore Sales Analysis/Dashboard Screenshot.png)
+![SuperStore](Images/Dashboard Screenshot.png)
