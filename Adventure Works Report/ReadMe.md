@@ -10,6 +10,13 @@ This repository contains the Power BI project developed for Adventure Works, a f
 - Implemented row-level security (RLS) to provide role-based data access and protect sensitive information.  
 - Visualized revenue, orders, returns, and customer insights across different regions and product categories.
 
+## Dashboard Screenshots
+![image1](images/Exec_dashboard.png)
+![image1](images/ExecDashboard.png)
+![image1](images/Map.png)
+![image1](images/Product_performance.png)
+![image1](images/Customer_performance.png)
+
 ## Files Included  
 - Power BI Desktop file (.pbix) with full report and data model  
 - Data samples (if applicable) or links to official Adventure Works datasets  
@@ -26,14 +33,7 @@ This repository contains the Power BI project developed for Adventure Works, a f
 - Mastery of advanced Power BI features including drill-through, DAX calculations, and row-level security.  
 - Ability to deliver actionable business insights through compelling and interactive reports.
 
-## Dashboard Screenshots
-![image1](images/Exec_dashboard.png)
-![image1](images/ExecDashboard.png)
-![image1](images/Map.png)
-![image1](images/Product_performance.png)
-![image1](images/Customer_performance.png)
-
-
 ## Credits  
 This project was completed as part of the Microsoft Power BI Desktop course by Maven Analytics.  
 Special thanks to instructors Chris Dutton and Aaron Parry for their guidance.
+
