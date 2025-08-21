@@ -1,1 +1,1 @@
-![SuperStore](images/Dashboard Screenshot.png)
+![SuperStore](images/DashboardScreenshot.png)
