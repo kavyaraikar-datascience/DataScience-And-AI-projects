@@ -31,7 +31,7 @@ The dataset contains information about titles on Netflix. Here are the columns a
 - Count the number of short action movies (duration <90 minutes) released in the 1990s
 
 ---
-![image1](images/python_analysis)
+![image1](images/python_analysis.jpeg)
 ## Instructions
 
 ### 1. Import Libraries
