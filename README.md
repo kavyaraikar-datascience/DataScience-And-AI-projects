@@ -1,6 +1,6 @@
 <h3>Welcome! This repository features my key data science projects, highlighting my skills in Python, machine learning, automation, and business analytics. Each project demonstrates my dedication to solving real-world problems using technology and data.</h3>
 
-<h2><b> +🚀 Featured Projects</b></h2>
+<h2><b> 🚀 Featured Projects</b></h2>
 1. Adventure Works Report<br>
 2. SENTIMART: Sentiment Analysis System<br>
 3. Clustering Mobile App Users Based on Activity<br>
