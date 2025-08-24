@@ -1,5 +1,7 @@
-![SuperStore](images/DashboardScreenshot.png)
 # Superstore Sales Analysis Dashboard (Excel)
+
+![SuperStore](images/DashboardScreenshot.png)
+
 
 ## Overview
 
