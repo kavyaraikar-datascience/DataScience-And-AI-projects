@@ -17,16 +17,6 @@ This repository contains the Power BI project developed for Adventure Works, a f
 ![image1](images/Product_performance.png)
 ![image1](images/Customer_performance.png)
 
-## Files Included  
-- Power BI Desktop file (.pbix) with full report and data model  
-- Data samples (if applicable) or links to official Adventure Works datasets  
-- Supporting documentation and resources  
-
-## How to Use  
-1. Open the `.pbix` file in Power BI Desktop.  
-2. Explore the interactive dashboards and filters to analyze sales, customer behavior, and product performance.  
-3. Review DAX calculations in the model for understanding advanced metrics and measures.  
-4. Modify the report or data model to fit your specific analysis needs.
 
 ## Learning Outcomes  
 - Hands-on experience with the full Power BI workflow: data import, transformation, modeling, and visualization.  
